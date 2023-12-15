@@ -1,0 +1,16 @@
+{
+  "name": "random-message-string-rodri",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rodrigo Lopez <rodrigo.lopez9810@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "random-message-string-rodri": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
